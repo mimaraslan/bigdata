@@ -1,0 +1,10 @@
+1	Restaurants
+2	Movies
+3	Restaurants
+4	Restaurants
+5	Movies
+6	Restaurants
+7	Donald Trump
+8	Presidential Debate
+9	Hillary Clinton
+10	Donald Trump
